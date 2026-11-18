@@ -1,0 +1,1 @@
+John Deere: https://github.com/simple-icons/simple-icons/blob/develop/icons/johndeere.svg — downloaded 2026-11-18. Brand mark belongs to its owner.
