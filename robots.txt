@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selhab.ru/sitemap.xml
